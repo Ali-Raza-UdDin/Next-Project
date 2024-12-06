@@ -54,4 +54,15 @@ export {app}
 //url sa jab bi data ata hai hitest %20 special character (url encoded data)
 
 
+//clodinary kiya hai ka pa jo file jo hai la ka apna server pa upload ker leta hai aur aws bi ishi tarah hi hai
+
+// files jo hai user sa la ga aur temporarily apna server pa rakh da ga 
+// ya local storage ma 
+
+
+
+
+
+
+
 
